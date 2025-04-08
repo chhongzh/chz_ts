@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "main": "index.ts",
+  "main": "index.js",
   "version": "1.0.1",
   "name": "chz_ts",
   "dependencies": {
