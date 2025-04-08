@@ -6,7 +6,7 @@ export default {
   input: 'src/main.ts',
   output: [
     {
-      name: 'chz_ts',
+      name: pkg.name,
       file: pkg.main,
       format: 'esm',
     }

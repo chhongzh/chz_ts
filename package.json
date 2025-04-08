@@ -1,6 +1,8 @@
 {
   "type": "module",
   "main": "dist/index.ts",
+  "version": "1.0.0",
+  "name": "chz_ts",
   "dependencies": {
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-typescript": "^12.1.2",
